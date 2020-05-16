@@ -10,6 +10,6 @@ Programming language used: C
 
 How to execute program: Simply run the `main` file.
 
-Christopher's contribution: READNE file
+Christopher's contribution: README file
 
 James' contribution:
