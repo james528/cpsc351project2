@@ -1,4 +1,4 @@
-CPSC254 - Programming Assignment 2
+CPSC351 - Programming Assignment 2
 
 Christopher Ordinario
 chris.ordinario@csu.fullerton.edu
