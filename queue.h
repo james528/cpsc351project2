@@ -1,13 +1,4 @@
-//
-//  queue.h
-//  Project3
-//
-//  Authors:
-//  - Stratton Aguilar
-//  - Ciaran Downey
-//
-//  Some rights reserved. See the included LICENSE file.
-//
+
 
 typedef struct proc_queue {
     int capacity;

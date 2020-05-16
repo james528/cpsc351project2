@@ -1,13 +1,5 @@
-//
-//  process.h
-//  Project3
-//
-//  Authors:
-//  - Stratton Aguilar
-//  - Ciaran Downey
-//
-//  Some rights reserved. See the included LICENSE file.
-//
+//James Parungao
+//Christohper Ordinario
 
 #ifndef Project3_process_h
 #define Project3_process_h

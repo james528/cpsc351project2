@@ -1,13 +1,5 @@
-//
-//  queue.h
-//  Project3
-//
-//  Authors:
-//  - Stratton Aguilar
-//  - Ciaran Downey
-//
-//  Some rights reserved. See the included LICENSE file.
-//
+//James Parungao
+//christopher Ordinario
 
 #include "process.h"
 #include "queue.h"

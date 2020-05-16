@@ -1,13 +1,5 @@
-//
-//  main.c
-//  Project3
-//
-//  Authors:
-//  - Stratton Aguilar
-//  - Ciaran Downey
-//
-//  Some rights reserved. See the included LICENSE file.
-//
+//James Parungao
+//Christopher Ordinario
 
 #include <stdio.h>
 #include <stdlib.h>

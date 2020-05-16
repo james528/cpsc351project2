@@ -1,13 +1,5 @@
-//
-//  memory.h
-//  Project3
-//
-//  Authors:
-//  - Stratton Aguilar
-//  - Ciaran Downey
-//
-//  Some rights reserved. See the included LICENSE file.
-//
+//James Parungao
+//Christopher Ordinario
 
 typedef struct FRAME {
     // 1 if assigned to process, otherwise 0
