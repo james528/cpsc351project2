@@ -1,4 +1,5 @@
-
+//James Parungao
+//Christopher Ordinario
 
 typedef struct proc_queue {
     int capacity;
