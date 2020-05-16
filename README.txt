@@ -8,7 +8,7 @@ jaymes528@csu.fullerton.edu
 
 Programming language used: C
 
-How to execute program: Run `make' and then type `./main`.
+How to execute program: Run `make' in the command line and then type `./main`.
 
 Christopher's contribution: README.txt, prototypes.h, queue.h, style.cfg
 
