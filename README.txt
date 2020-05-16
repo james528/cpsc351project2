@@ -10,6 +10,6 @@ Programming language used: C
 
 How to execute program: Simply run the `main` file.
 
-Christopher's contribution: README file
+Christopher's contribution: README.txt, prototypes.h, queue.h, style.cfg
 
-James' contribution:
+James' contribution: main.h, Makefile, memory.h, process.h
